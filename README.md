@@ -1,2 +1,2 @@
-# Some_progs
-Some_progs
+# ALgorithms
+Algorithms
